@@ -2394,4 +2394,3 @@ sev_register_types(void)
 }
 
 type_init(sev_register_types);
-
